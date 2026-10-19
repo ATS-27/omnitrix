@@ -1,0 +1,24 @@
+ATS Sample
+Pune, India | sample.student@example.com
+
+EDUCATION
+B.Tech, Artificial Intelligence and Machine Learning, Sample Institute of Technology (2023 - 2027)
+
+SKILLS
+Python, SQL, Pandas, PyTorch, Machine Learning, NLP, OWASP, Burp Suite, Git, Streamlit
+
+PROJECTS
+LedgerX
+- Built a Python and SQL transaction ledger with Pandas-based reconciliation checks.
+- Deployed a demo build for classmates on a shared server.
+
+SolveStack
+- Created an NLP question-answering prototype using PyTorch and transformers.
+- Wrote preprocessing pipelines for text cleaning and tokenisation.
+
+DeepCytes
+- Ran web application penetration tests using Burp Suite against intentionally vulnerable apps (OWASP Top 10).
+- Documented findings in structured reports.
+
+CERTIFICATIONS
+Introduction to Machine Learning (course completion)

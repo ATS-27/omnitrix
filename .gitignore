@@ -1,0 +1,28 @@
+# Python bytecode and test/tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local environments and editor/OS files
+.venv/
+venv/
+env/
+.DS_Store
+.idea/
+.vscode/
+
+# Local configuration secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local application state and generated exports
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+*.sqlite-journal
+exports/
+*.log

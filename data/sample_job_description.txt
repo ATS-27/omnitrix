@@ -1,0 +1,6 @@
+Applied NLP Intern - TextTrail (SYNTHETIC)
+
+Required: Python, NLP, Transformers, SQL, Docker
+Preferred: Deployment experience, Git
+
+Responsibilities: build and ship NLP pipelines, containerise services, work with SQL data stores.
